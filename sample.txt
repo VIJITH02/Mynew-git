@@ -2,3 +2,7 @@ this is a sample file to test modify S
 
 
 adding to check 
+
+
+
+Studied recuirsive merge and fastforward merge
